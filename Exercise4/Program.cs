@@ -2,6 +2,8 @@
 
 namespace Exercise4
 {
+    // Классно! Советуб ознакомиться на msdn, есть интересный метод Array.Resize<T>(T[], Int32) - он делает схожие 
+    // действия.
     class Program
     {
         static void Main(string[] args)

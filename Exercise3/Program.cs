@@ -16,7 +16,7 @@ namespace Exercise3
             }
 
             int[] reversedArray = MyReverse(array);
-            int[] subArray = SubArray(array, arraySize / 2, arraySize);
+            int[] subArray = SubArray(array, 4, 5);
 
             Console.WriteLine("Исходный массив:");
             DisplayArray(array);
